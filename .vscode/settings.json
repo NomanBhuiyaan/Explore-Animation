@@ -1,0 +1,13 @@
+{
+    "editor.acceptSuggestionOnCommitCharacter": true,
+    "editor.inlineSuggest.edits.allowCodeShifting": "never",
+    "editor.inlineSuggest.edits.renderSideBySide": "never",
+    "editor.inlineSuggest.showToolbar": "never",
+    "terminal.integrated.suggest.inlineSuggestion": "off",
+    "workbench.settings.useSplitJSON": true,
+    "terminal.integrated.commandsToSkipShell": [
+        "editor.inlineSuggest.enabled: false",
+        "editor.quickSuggestions: false",
+        "editor.suggestOnTriggerCharacters: false"
+    ]
+}
